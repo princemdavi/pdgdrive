@@ -17,14 +17,13 @@ function matchYoutubeUrl(url) {
 }
 
 bot.on('text', (ctx) => {
-    const url = ctx.update.message.text
-    const isValidUrl = matchYoutubeUrl(url)
-    if(!isValidUrl) return
-    
-    let audioStream = ytdl(url, { filter: 'audioonly'});
+   const url = ctx.update.message.text
+   const isValidUrl = matchYoutubeUrl(url)
+   
+   if(!isValidUrl) return
    
    ctx.replyWithAudio({
-     source: audioStream
+     source: ytdl(url, { filter: 'audioonly'})
    })
 })
 
