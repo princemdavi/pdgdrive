@@ -1,5 +1,8 @@
 const {Telegraf} = require('telegraf');
 const ytdl = require('ytdl-core');
+const express = require("express")
+
+const app = express()
 
 const bot = new Telegraf('5419597160:AAGF6pJzji-cCEA6A6X-B9ooipl7jmFpaAE');
 
@@ -28,3 +31,5 @@ bot.on('text', (ctx) => {
 })
 
 bot.launch()
+
+app.listen(process.env.PORT || 4900, console.log("app started..."))
