@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "radiant-micron-328409",
+  "private_key_id": "57e85d9c5a58e33811aeb455907c1412d9bbce8a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCO/qp8ayAjTCsI\nqwMT5EnD9oAUkygzWcU7MxmWPh4WAnr/sgan7zI6PfDdCwy+RoWHmIZSeyP6WoK2\nmgBAgCcVdoSt8pZ0ONk7JvLEZbGhwO2vIzH0hS4fuSpp3LVCqQB2D+F0wfnvoT9O\nQJAfv1dOiLKpJoQpZkij06rXUoNl2lrZxxlU+N5VYYiL1XoSQfMZjxtdPDSPL/pA\n1e+HwW7k4TeV5LonnHXoYSaPygUOAHju2neW3nXZeOEodeKBFMq9wh7c5GnK8ZT6\nomQmrtUa8K9M6JdId3KHglagEoS+2WpNPFD4qxQzPUscU8g7xP9ZqZPx3VTuRtek\nVB575OQhAgMBAAECggEAF82p2KNGismrojpBfWazptTaVlJ2zzGC5QtpF3sIrBZG\nnljmxb7KKCrWdR1ZRjVcFgncVk+cWhkGCFqTbylGGEsN5BztUbSC6NdfczUQgEIq\n7swXjUI8PtimiE/OtqWGZ6DWIYcG0Y6QiLizpS1HXdHgl8rLFk8qCWd7WXOpXuNe\nGOdrzT6B+hfM69SAlka/bw3O4CeSw6TcisHo3G5J+cOjArPtu+C6T+nN/hERHweE\nSZesX9GpkioxRkHdMe6wvn4yuHULo5oB1BAeimidqJD/8m7TDpLR12O+zILJ+tlQ\nfXDhmqZRNwkNVPDoWSrj7hTYJQksTr/VIkH4IMTESQKBgQDHza5xELI1IVV/QTsa\nUsLK2qR25/9BTCFkntSgpYew7moMEf1JRrEZEUHb6c58MAC9MH8wS4V7m4TlUBdp\n9wSvBM0aN5dJ0DXfu3cFM9wVOhodStdUFgfe8vGyP1+fLYfbvgrsa7Ic9St6BtXt\n5jXHiVzWkZX/8R1Dz1su8i7cZQKBgQC3NqCsAXAtsFO5VCTG9KyO/tBoyQweribh\nA42zfztLAKulD1/YagfnghFX6NjQBmFd+MOJquA8pHsK41AEXW8F9COgv4qgYXmJ\nPyuvbH1bH6cBP8yvGFhD5bgqcYiQj0InxfEPbYS7L2uxndJ8tzfsSimzNNwG0ID0\nf0LeCeI3DQKBgQCBo/AqxpWKqa1K221Y4Bgp/QG3cUKLALWuDuyRq7XGVHuUh1ub\n3vVr+WmNIkBrDc588umj0Wyzzi3FiFkY1UFBulDGUQmlyCYcnAtW4dZMI53sIbJj\nicPjoii26i3GH4nGR6HY0uwHpABoteS67qM4a+VEB8SXA8BkTjew100WjQKBgQCM\nnJZvrKLlzeBT6mpXb81H6fUVlseAfHRGWa3VRx7Aj4Esq0IKHEZ4vXCGIaTU8zCj\nKJsZ+1Uh9bKhRphQ4UymKxt08cx5DpZyaVMjzYXf+8j2wnpbH7oOUi4oFP6Uw/4n\n/FjoWEt4RgrHRLMZGJ0I8lpSuYzshfWSsGEnfDpruQKBgCAEIEZK4PEsnAfxpLY2\nE73qtPi0qUWeYIfNlpYmsKjfMmuxikdNUT52FKas+eawY/yKHqjqS1mQdUvyKWyb\naqYMKj8Y2Nh+yxHXW8BRXJtXC/ZbcuOSl+JEqIoBN6v1BH9IDiC9E9Bg9/4dlqbJ\nJ0WHvvnOAcKC32LlssWZ9WDC\n-----END PRIVATE KEY-----\n",
+  "client_email": "gdrive-service-account@radiant-micron-328409.iam.gserviceaccount.com",
+  "client_id": "116659606217572065333",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gdrive-service-account%40radiant-micron-328409.iam.gserviceaccount.com"
+}
